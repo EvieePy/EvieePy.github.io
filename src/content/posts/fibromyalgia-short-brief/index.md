@@ -1,0 +1,144 @@
+---
+title: 'Fibromyalgia: A short brief'
+published: 2025-08-03
+draft: false
+tags: ['fibromyalgia', 'chronic illness', 'personal']
+coverImage:
+  src: './cover.jpg'
+  alt: 'Cartoon women, showing the peace sign with the text: "Im in pain 24/7, excuse me if I am moody."'
+description: 'A short run-down and some brief insight into Fibromyalgia.'
+---
+
+:::disclaimer
+This post is my personal opinions and experiences with Fibromyalgia; I am not a Doctor and this is not medical advice.
+
+Fibromyalgia (FM) is unique to each person, and some of my experiences may not be relevant to, or align with, your personal 
+experiences, opinions, or knowledge.
+:::
+
+:::warning
+:warning: **TRIGGER WARNING**: Some parts of this post may contain content relating to potentially distressing mental health themes. Please only continue reading if you feel safe and comfortable.
+:::
+
+:::tip
+**Fibromyalgia** will often be shortened as **FM**.
+:::
+
+
+## A Fibromyalgia "Run Down"
+
+**FM** is a chronic condition characterised by central hypersensitivity. From my experience and research; historically, and still quite often
+presently, **FM** generally gets mischaracterised as a **Chronic Pain** condition, however it's important to understand that while
+widespread **Chronic Pain** is a hallmark symptom of **FM**, it's only one piece to a very large set of symptoms someone with
+**FM** might deal with.
+
+Understanding that **FM** is a **Central Sensitisation Syndrome** (amplified processing in the central nervous system) will help
+in understanding how complicated **FM** is, and how such a large amount of symptoms can occur.
+
+In fact there are over **200** possible symptoms that a person may experience with **FM**. **FM** can also often include many
+co-morbidities, including; **Chronic Fatigue Syndrome (ME/CFS)**, **Irritable Bowel Syndrome (IBS)**, **Migraines**, **Depression and Anxiety**,
+**Postural Tachycardia Syndrome (POTS)**, among many others.
+
+**FM** can also mimic other conditions such as **Systemic Lupus Erythematosus (SLE)**, **Multiple Sclerosis (MS)**,
+**Rheumatoid Arthritis (RA)**, **Hypothyroidism** and other chronic conditions, including those listed above. 
+This can make diagnosing **FM** a very hard and long process for doctors, and understandably an even harder and longer 
+process for yourself. It took nearly **2 years** for myself to get an official diagnosis, which honestly felt like eternity.
+
+![Fibromyalgia Mimics](./Fibro_Mimics.jpg 'Fibromyalgia can mimic other conditions.')
+
+
+I have included a very incomplete list of total symptoms, mostly just the ones I personally deal with, below:
+
+### Symptom Overview
+
+- **Chronic Widespread Pain**:
+  - Affects arms/hands, legs/feet, neck, back, abdomen, jaw/mouth, eyes and skin.
+  - Both sides of the body are affected equally and is present in varying forms, all day, everyday.
+  - The pain is much worse during a flare-up.
+- **Chronic Fatigue**.
+- **Sleep Disturbances**:
+  - Unable to fall asleep.
+  - Unable to stay asleep.
+  - Unable to feel refreshed after sleep, even if the above were not present.
+  - Pain disturbances during sleep, leading to **Temporomandibular Joint (TMJ)** problems due to tensing and grinding.
+- **Severe Headaches/Migraines**.
+- **Cognitive Dysfunction**; Often referred to as **Fibro Fog** or **Brain Fog**.
+  - Can affect memory, concentration and judgement, among other things.
+  - Forgetfulness and problems remembering new information. [1](https://www.arthritis.org/diseases/more-about/fibro-fog)
+  - Reduced ability to think quickly and efficiently, especially in distracting environments. [1](https://www.arthritis.org/diseases/more-about/fibro-fog)
+  - Difficulty concentrating or feeling alert. [1](https://www.arthritis.org/diseases/more-about/fibro-fog)
+  - Difficulty holding conversation or the ability to access stored language information quickly and efficiently. [1](https://www.arthritis.org/diseases/more-about/fibro-fog)
+- **Temperature Dysregulation**:
+  - Inability to cool down *or* feeling too hot.
+  - Increased pain/symptoms in the cold or wet weather.
+  - Feeling hot(ter) at night.
+- **Eye Pain and Redness**.
+- **Light Sensitivity**:
+  - Bright screens (including bright light modes) or lights can feel overwhelming and/or painful.
+- **Allodynia**:
+  - Overly sensitive to touch.
+  - Small amounts of pressure can cause immensely painful experiences; like slightly bumping into a wall or tapping your hand 
+    on something.
+- **General Malaise/Flu-like feeling**.
+- **Sensitivity to Noise**.
+- **Stomach Pain and Nausea**.
+- **Nerve Pain and/or Numbness**.
+- **Anxiety and Depression**:
+  - Can often present with feelings of hopelessness.
+  - Irritability.
+  - Anxiety around symptoms and pain.
+
+### Flare-Ups and Feedback Loops
+
+**Fibromyalgia** often comes and goes through what is commonly referred to a **Flare-Up** *or simply* a **Flare**, which is a period of greatly heightened symptoms 
+and can often be debilitating. However most people (including myself) still experience their symptoms every day. Personally these flares are often caused 
+by getting stuck in a **Negative Feedback Loop**; however this isn't always the case, and many different things can lead to a flare. You can think of a **Feedback Loop** in **FM** as an either **Negative** *or* **Positive** experience, symptom, or outcome that contributes to
+other **Negative** *or* **Positive** experiences, symptoms or outcomes, which continues until broken or disrupted. 
+
+**For example:**
+
+> Negative Feedback Loop: <html><br></html> **Poor Sleep** >> **Increased Fatigue and Stress** >> **Heightened Symptoms/Pain** >> **Worse Sleep** >> ...
+
+![Fibromyalgia Mimics](./Fibro_Sleep_Loop.jpg 'Fibromyalgia Negative Loop.')
+
+Being able to recognise and break a **Negative Feedback Loop** can really help to manage a flare-up, or shorten it's length.
+
+## Invisibility
+
+:::warning
+:warning: **TRIGGER WARNING**: This section contains content relating to potentially distressing mental health themes. Please only continue reading if you feel safe and comfortable.
+:::
+
+A large part of the reason I have decided to blog about **FM** is that the huge majority of people in my day-to-day life, including: family,
+friends, health professionals including Doctors; Nurses; and Allied-Health Professionals, still don't fully understand or can't completely
+comprehend what **FM** entails and how it affects me. Raising awareness about **FM** and hopefully providing some insight is all I hope to achieve.
+
+> Unfortunately you can't see Fibromyalgia like you can see broken bones. You can't see Fibromyalgia like you can see widespread 2nd degree burns. 
+
+In **FM**, your laboratory tests, scans/X-Rays and Specialist Reports often come back normal, leading some doctors/nurses to
+confusion and often resulting in being judged, stigmatised against or labelled. Being labelled or passed off as **"drug seeking"**, **"you just have the flu"** or **"you just have anxiety"** is an
+unfortunate and extremely disappointing reality within the healthcare system here in **Australia** and likely other parts of the world.
+
+> **Fibromyalgia** might appear invisible but that doesn't mean it doesn't exist or isn't real.
+
+Some concerning consequences of healthcare professionals not understanding **Fibromyalgia** and other invisible illnesses is
+that those affected by these conditions are already at a significantly higher risk of attempting or completing suicide. It should be
+completely understandable that not being willing to listen or help will ultimately increase this risk further. People need
+to be listened to, heard and appropriately cared for; no matter the complaint or concern.
+
+![Fibromyalgia can appear invisible](./Fibro_Invisible.jpg 'Fibromyalgia often appears invisible.')
+
+Before finding my current **General Practitioner** (GP/PCP) this was a really harsh reality I had to live with everyday. Finding 
+a good Doctor who listens and is willing to investigate and help without judgement has been an integral part of finally getting a diagnosis of and managing my **FM**.
+
+## Closing Remarks
+
+I hope you found something valuable from this short post.
+
+In future posts I hope to dive deeper into some particular sub-topics relating to **Fibromyalgia**.
+
+If you are reading this, please know that **Fibromyalgia** is very real. If anyone you know or love has **FM** or if you know me
+*or* you are a healthcare professional; if you haven't already I highly recommend getting to know **FM** and how it can potentially
+affect the people you care for :heart:
+
+![Fibromyalgia Butterfly](./Fibro_Butterfly.jpg)
