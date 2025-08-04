@@ -29,7 +29,7 @@ const reactionsEnabled = giscusConfig.reactionsEnabled ? '1' : '0'
     if (!giscusDiv) {
       throw new Error('Giscus div not found in the document.')
     }
-    const origin = giscusDiv.getAttribute('data-origin')
+    const origin = giscusDiv.getAttribute('data-origin')?.replace("http://", "https://")
     const repo = giscusDiv.getAttribute('data-repo')
     const repoId = giscusDiv.getAttribute('data-repo-id')
     const category = giscusDiv.getAttribute('data-category')
