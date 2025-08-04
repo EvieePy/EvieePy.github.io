@@ -76,6 +76,19 @@ const { socialLinks } = Astro.props
     )
   }
   {
+    socialLinks.discord && (
+      <a
+        href={socialLinks.discord}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="social-link"
+      >
+        <span class="sr-only">Discord</span>
+        <Icon name="discord" class="size-7" />
+      </a>
+    )
+  }
+  {
     socialLinks.email && (
       <a
         href={`mailto:${socialLinks.email}`}

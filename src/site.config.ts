@@ -4,7 +4,7 @@ const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
   site: 'https://mysty.me',
   // The name of your site, used in the title and for SEO.
-  title: 'Mysty Blog',
+  title: "Mysty's Blog",
   // The description of your site, used for SEO and RSS feed.
   description:
     'My random blog about stuff and things...',
@@ -31,10 +31,10 @@ const config: SiteConfig = {
       name: 'Posts',
       url: '/posts',
     },
-    // {
-    //   name: 'Posts',
-    //   url: '/posts',
-    // },
+    {
+      name: 'RSS',
+      url: '/rss.xml',
+    },
 
     // {
     //   name: 'GitHub',
@@ -125,6 +125,7 @@ const config: SiteConfig = {
     github: 'https://github.com/EvieePy',
     // mastodon: 'https://github.com/stelcodes/multiterm-astro',
     email: 'mystypie@gmail.com',
+    discord: 'discord://-/users/402159684724719617',
     // linkedin: 'https://github.com/stelcodes/multiterm-astro',
     // bluesky: 'https://github.com/stelcodes/multiterm-astro',
     // twitter: 'https://github.com/stelcodes/multiterm-astro',
