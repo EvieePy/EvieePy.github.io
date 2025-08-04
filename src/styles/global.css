@@ -408,3 +408,13 @@ article img {
     @apply border-accent cursor-pointer;
   }
 }
+
+.highlightHeader {
+  font-weight: 550;
+  background-color: color-mix(in oklab, var(--color-accent) 4%, transparent)
+}
+
+.toc-header-a {
+  padding-left: .2em;
+  padding-right: .2em;
+}

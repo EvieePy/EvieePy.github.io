@@ -10,6 +10,7 @@ import TableOfContents from '@components/TableOfContents.astro'
 import { Image } from 'astro:assets'
 import GiscusLoader from '@components/GiscusLoader.astro'
 import siteConfig from '../../site.config'
+import PostScroll from '@components/PostScroll.astro'
 
 export const getStaticPaths = (async () => {
   const posts = await getSortedPosts()
@@ -38,6 +39,7 @@ if (addendum.length > 0) {
   addendumAvatarImage = addendumEntry.data.avatarImage
 }
 ---
+<PostScroll />
 
 <Layout
   title={postData.title}

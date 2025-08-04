@@ -1,0 +1,20 @@
+<script is:inline>
+    const headers = document.getElementsByClassName("heading-anchor");
+    const tocHeaders = document.getElementsByClassName("toc-header-a");
+
+    window.addEventListener("scroll", () => {
+        for (let i = 0; i < headers.length; i++) {
+            const header = headers[i];
+            const rect = header.getBoundingClientRect();
+
+            const top = rect.top - 120;
+            const tocH = tocHeaders[i];
+            
+            if (top <= 0) { 
+                tocH.classList.add("highlightHeader");
+            } else {
+                tocH.classList.remove("highlightHeader");
+            }
+        }
+    });
+</script>
