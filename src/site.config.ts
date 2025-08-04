@@ -135,14 +135,13 @@ const config: SiteConfig = {
   // You'll need a GitHub repository with discussions enabled and the Giscus app installed.
   // Take the values from the generated script tag at https://giscus.app and fill them in here.
   // If you don't want to use Giscus, set this to undefined.
-  giscus: undefined,
-  // giscus: {
-  //   repo: 'stelcodes/multiterm-astro',
-  //   repoId: 'R_kgDOPNnBig',
-  //   category: 'Giscus',
-  //   categoryId: 'DIC_kwDOPNnBis4CteOc',
-  //   reactionsEnabled: true, // Enable reactions on post itself
-  // },
+  giscus: {
+    repo: 'evieepy/evieepy.github.io',
+    repoId: 'R_kgDOPXlSEg',
+    category: 'Q&A',
+    categoryId: 'DIC_kwDOPXlSEs4Ctv5q',
+    reactionsEnabled: true, // Enable reactions on post itself
+  },
 }
 
 export default config
